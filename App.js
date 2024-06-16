@@ -145,7 +145,7 @@ export default function App() {
           <Text style={{ color: '#FFFFFF', marginLeft: 180, marginTop: -20 }}>Bolgatanga, Ghana</Text>
         </Card>  
       </ScrollView>
-      
+
    <View style={{height: 40}}/>
   
   </View>
@@ -451,7 +451,9 @@ jobcard7: {
 },
 firstcards: {
   marginTop: 5,
+flex: 1,
 },
+
 
 
 });
